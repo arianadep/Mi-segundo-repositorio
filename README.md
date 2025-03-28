@@ -15,3 +15,8 @@ Van a conseguir una imagen de un paisaje:
 | Pedro  | No     | Sí    |  
 | Juana  | Sí     | Sí    |  
 | Andrés | No     | No    |
+```git add README.md```
+```git commit -m "Actualizado README con imagen, tabla y enlaces"```
+```git push origin main```
+
+
